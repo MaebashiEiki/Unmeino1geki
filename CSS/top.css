@@ -101,3 +101,7 @@ button:hover {
   right: 10px;
   z-index: 1;
 }
+body {
+  background-color: #F5E4D7 !important; /* クリームベージュ系の色 */
+}
+
